@@ -77,7 +77,7 @@ int main() {
       else
         printf("Please enter correct choice. \n");
    }
-  else if(category == 'M'){
+  else if(category == 3){
       printf("Welcome to Mass Converter! \n");
       printf("Here is a list of conversations to choose from: \n");
       printf("Enter 1 for ounces to pounds. \n");
